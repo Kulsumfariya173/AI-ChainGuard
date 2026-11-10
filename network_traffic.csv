@@ -1,0 +1,11 @@
+duration,src_bytes,dst_bytes,failed_logins,connection_count,login_success,label
+10,500,1200,0,2,1,Normal
+15,800,1500,0,3,1,Normal
+8,300,900,0,1,1,Normal
+20,1000,2000,1,4,1,Normal
+5,200,500,0,2,1,Normal
+3,100,50,8,30,0,Suspicious
+2,50,20,12,45,0,Suspicious
+4,150,30,10,35,0,Suspicious
+1,80,10,15,50,0,Suspicious
+3,120,40,9,40,0,Suspicious
